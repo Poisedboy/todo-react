@@ -1,0 +1,12 @@
+.todo {
+    padding: 10px;
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+    background-color: azure;
+    border-radius: 20px;
+}
+
+.todo h4 {
+    color: black;
+}
